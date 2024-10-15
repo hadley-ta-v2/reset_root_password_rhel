@@ -1,0 +1,1 @@
+# reset_root_password_rhel
